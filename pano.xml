@@ -473,7 +473,7 @@
       <hotspot skinid="ht_node" tilt="-25.26" pan="-358.85" target="" title="욕실2" description="" url="{node9}" id="Point01"/>
       <hotspot skinid="ht_node" tilt="-27.16" pan="-281.54" target="" title="침실1" description="" url="{node14}" id="Point02"/>
       <hotspot skinid="ht_node" tilt="-29.31" pan="-94.03" target="" title="주방3" description="" url="{node12}" id="Point03"/>
-      <hotspot skinid="display-전등" tilt="15.97" pan="-153.76" target="_blank" title="" description="" url="" id="Point04"/>
+      <hotspot skinid="display-전등" tilt="30.63" pan="-153.01" target="_blank" title="" description="" url="" id="Point05"/>
     </hotspots>
     <media/>
     <transition zoomafterinfov="140" type="crossdissolve" zoomspeed="2" zoomin="0" softedge="0" blendtime="1" zoomoutpause="1" enabled="1" zoomout="0" delay="none" zoomfov="40" zoomafteroutfov="40" blendcolor="0x000000"/>
@@ -1075,7 +1075,7 @@
       <hotspot skinid="ht_node" tilt="-25.26" pan="-358.85" target="" title="욕실2" description="" url="{node27}" id="Point01"/>
       <hotspot skinid="ht_node" tilt="-27.16" pan="-281.54" target="" title="침실1" description="" url="{node32}" id="Point02"/>
       <hotspot skinid="ht_node" tilt="-29.31" pan="-94.03" target="" title="주방3" description="" url="{node30}" id="Point03"/>
-      <hotspot skinid="display-전등" tilt="15.97" pan="-153.76" target="_blank" title="" description="" url="" id="Point04"/>
+      <hotspot skinid="display-전등" tilt="30.63" pan="-153.01" target="_blank" title="" description="" url="" id="Point05"/>
     </hotspots>
     <media/>
     <transition zoomafterinfov="140" type="crossdissolve" zoomspeed="2" zoomin="0" softedge="0" blendtime="1" zoomoutpause="1" enabled="1" zoomout="0" delay="none" zoomfov="40" zoomafteroutfov="40" blendcolor="0x000000"/>
@@ -1676,7 +1676,7 @@
       <hotspot skinid="ht_node" tilt="-25.26" pan="-358.85" target="" title="욕실2" description="" url="{node47}" id="Point01"/>
       <hotspot skinid="ht_node" tilt="-27.16" pan="-281.54" target="" title="침실1" description="" url="{node52}" id="Point02"/>
       <hotspot skinid="ht_node" tilt="-29.31" pan="-94.03" target="" title="주방3" description="" url="{node50}" id="Point03"/>
-      <hotspot skinid="display-전등" tilt="15.97" pan="-153.76" target="_blank" title="" description="" url="" id="Point04"/>
+      <hotspot skinid="display-전등" tilt="30.63" pan="-153.01" target="_blank" title="" description="" url="" id="Point05"/>
     </hotspots>
     <media/>
     <transition zoomafterinfov="140" type="crossdissolve" zoomspeed="2" zoomin="0" softedge="0" blendtime="1" zoomoutpause="1" enabled="1" zoomout="0" delay="none" zoomfov="40" zoomafteroutfov="40" blendcolor="0x000000"/>
@@ -2278,7 +2278,7 @@
       <hotspot skinid="ht_node" tilt="-25.26" pan="-358.85" target="" title="욕실2" description="" url="{node66}" id="Point01"/>
       <hotspot skinid="ht_node" tilt="-27.16" pan="-281.54" target="" title="침실1" description="" url="{node71}" id="Point02"/>
       <hotspot skinid="ht_node" tilt="-29.31" pan="-94.03" target="" title="주방3" description="" url="{node69}" id="Point03"/>
-      <hotspot skinid="display-전등" tilt="15.97" pan="-153.76" target="_blank" title="" description="" url="" id="Point04"/>
+      <hotspot skinid="display-전등" tilt="30.63" pan="-153.01" target="_blank" title="" description="" url="" id="Point04"/>
     </hotspots>
     <media/>
     <transition zoomafterinfov="140" type="crossdissolve" zoomspeed="2" zoomin="0" softedge="0" blendtime="1" zoomoutpause="1" enabled="1" zoomout="0" delay="none" zoomfov="40" zoomafteroutfov="40" blendcolor="0x000000"/>

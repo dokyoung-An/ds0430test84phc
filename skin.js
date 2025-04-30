@@ -1,7 +1,7 @@
 // Garden Gnome Software - Skin
 // Pano2VR 7.1.8/20986
 // Filename: ??? ???? VIORR 84C-ph-??.ggsk
-// Generated 2025-04-30T10:08:56
+// Generated 2025-04-30T10:34:15
 
 function pano2vrSkin(player,base) {
 	player.addVariable('vis_minimap_button', 2, false, { ignoreInState: 0  });
